@@ -5,8 +5,10 @@ var y = 2;
 if (x == y) {
     // Se os numeros forem iguais, exibe no console a mensagem "Números conferem!".
     console.log("Números conferem!");
+    // a linha abaixo encerra o bloco if e começa o else;
 } else {
     // Se os numeros forem diferentes, exibe no console a mensagem "Números divergem!".
     console.log("Números divergem!");
+    // a linha abaixo encerra o bloco else;
 }
 
