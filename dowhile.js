@@ -10,4 +10,5 @@ while (posicao < matriz.length) {
     console.log(matriz[posicao]); 
     // Incrementando a posição para passar para o próximo elemento na próxima repetição ou seja a cada repetição do loop while, a variável posicao é aumentada em 1.
     posicao++; 
+    // a linha baixo encerra o bloco while
 }
